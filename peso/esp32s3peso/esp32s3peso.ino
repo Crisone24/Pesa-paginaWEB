@@ -7,10 +7,8 @@
 #include "gfx_conf.h"
 
 // Configuración WiFi
-//const char* ssid = "SOMOS-GONZALEZ";
-//const char* password = "63251499";
-const char* ssid = "esp32";
-const char* password = "12345678";
+const char* ssid = "usuario de su internet";
+const char* password = "contraseña";
 
 // Definición de pines HX711
 #define DT 38
