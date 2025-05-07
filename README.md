@@ -14,3 +14,6 @@ Librerias a usar:
 
 -->lvgl
 
+
+El archivo lv_conf, son todos los diseños que maneja la esp32 con pantalla tactil, tipo de letra, tamaño, etc...
+
